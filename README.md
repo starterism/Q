@@ -16,6 +16,7 @@ else
 ```
 
 ##page 564
+PropertyChangeListener?   
 ```
 event.getPropertyName() == JFileChooser.SELECTED_FILE_CHANGED_PROPERTY
 ```

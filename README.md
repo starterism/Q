@@ -2,8 +2,8 @@
 core java I
 
 ##page 478 : 
-why these "Layout" need int parameter? what that for?
-A: maybe it's the relative position between two components 
+why these "Layout" need int parameter? what that for?   
+A: maybe it's the relative position between two components    
 PS: the "calculator" program is robust!
 
 ##page 555
@@ -13,4 +13,9 @@ if(parent instanceof Frame)
   owner = (Frame) parent;
 else
   owner = (Frame) SwingUtilities.getAncestorOfClass(Frame.class,parent)
+```
+
+##page 564
+```
+event.getPropertyName() == JFileChooser.SELECTED_FILE_CHANGED_PROPERTY
 ```

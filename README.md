@@ -20,3 +20,7 @@ PropertyChangeListener?
 ```
 event.getPropertyName() == JFileChooser.SELECTED_FILE_CHANGED_PROPERTY
 ```
+##so many in chapter 12
+```
+***.this //*** is always the class itself?
+```
